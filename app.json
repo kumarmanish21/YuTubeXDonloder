@@ -1,5 +1,5 @@
 {
-    "name": "Song-Downloader-Bot",
+    "name": "YuTubeXDonloder",
     "description": "A BOT TO DOWNLOAD MUSIC FROM YOUTUBE.",
     "logo": "https://telegra.ph/file/745badebb188c6da28a67.jpg",
     "stack": "container",
@@ -9,9 +9,9 @@
         "Telegram",
         "nazriya"
     ],
-    "website": "https://github.com/MR-JINN-OF-TG",
-    "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot",
-    "success_url": "https://t.me/NAZRIYASUPPORT",
+    "website": "https://github.com/kumarmanish21/YuTubeXDonloder",
+    "repository": "https://github.com/kumarmanish21/YuTubeXDonloder",
+    "success_url": "https://t.me/Nacked_eyes",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
